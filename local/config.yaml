@@ -1,0 +1,13 @@
+config_items:
+#  - repos:  #robot需管理的仓库列表
+#    - ibforuorg
+#    community_name: ibforuorg
+#    community_repo: community
+#    branch: master
+#    command_link: https://gitee.com/ibforu/community/blob/master/en/sig-infrastructure/command.md
+  - repos: #robot需管理的仓库列表
+      - ibforuorg
+    community_name: ibforuorg
+    community_repo: test_org
+    branch: master
+    command_link: https://gitee.com/ibforu/community/blob/master/en/sig-infrastructure/command.md
